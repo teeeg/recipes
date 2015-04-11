@@ -10,9 +10,9 @@ A simple base ferment for cashew cheese that can be seasoned with dried herbs or
 Ingredient | Quantitity | Notes 
 ---------: | :--------- | :----
 Cashews | 400 g | Raw
-Water | 115 g | 
+Water | 100 g | 
 Starter | 15 g | Leftover cashew cheese or soy yogurt to innocoluate batch
-Salt | 10 g | 
+Salt | 1 T | 
 
 ## Method 
 1. Soak cashews for 24 hours and drain. You can soak the cashews less but keep in mind it will influence the texture of the cream. This recipe uses 24 hours as a consistent metric. A 24-hour soak swelled the cashews to 575 grams. 
