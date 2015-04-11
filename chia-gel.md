@@ -14,4 +14,4 @@ Water | 400 g | |
 
 ## Method 
 1. Whisk chia seeds into water.
-2. Soak chilled at least 2 hours. 
+2. Soak chilled at least 20 minutes (You can continuously stir to speed up absorption). 
