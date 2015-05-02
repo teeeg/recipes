@@ -9,8 +9,8 @@ Presoaking the chia seeds prevents the seeds from robbing any moisture from othe
 
 Ingredient | Quantitity | Notes 
 ---------: | :--------- | :----
-Chia seeds | 20 g | 
-Water | 400 g | | 
+Chia seeds | 10 g | Approximately 10 Tbsp
+Water | 200 g | | 
 
 ## Method 
 1. Whisk chia seeds into water.
