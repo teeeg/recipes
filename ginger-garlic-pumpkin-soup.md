@@ -17,8 +17,8 @@ coconut cream | 400 ml
 fish sauce | to taste | use salt if you want vegan
 fresh herbs | handful | any combination of thai basil, mint, cilantro
 
-1. Steam garlic heads whole in pressure cooker for 10 minutes and releasing pressure to open. When cool, extract cloves from their skins.
-2. Saute onion, carrot and leek until slightly colored and translucent. 
+1. Steam garlic whole in pressure cooker for 10 minutes and releasing pressure to open. When cool, extract cloves from their skins. 
+2. Saute garlic cloves, onion, carrot and leek until slightly colored and translucent. 
 3. Combine squash, lime skin, broth in pressue cooker and cooking on high pressure for 10 minutes allowing to cool naturally before opening.
 4. Remove lime skin from soup, add garlic cloves, cocount cream and puree in vitamix until smooth.
 5. Season to taste with lime juice, fish sauce and salt. 
