@@ -3,7 +3,7 @@ category: sauce
 tags: vegan, fermented, raw
 ---
 
-#Cashew Cheese Base
+# Cashew Cheese Base
 
 A simple base ferment for cashew cheese that can be seasoned with dried herbs or spices. Eat within two weeks. 
 
