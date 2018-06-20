@@ -11,7 +11,7 @@ Ingredient | Quantitity | Notes
 ---------: | :--------- | :----
 Buckwheat groats | 200 g | about 1 heaped cup
 Water | 230 ml | 
-Salt | 10 g | coarse grey salt from Brittany!
+Salt | 5 g | coarse grey salt from Brittany!
 
 1. Soak groats for 8 hours in water.
 2. Drain groats, immerse in water once more and agitate to thoroughly rinse and then drain.
