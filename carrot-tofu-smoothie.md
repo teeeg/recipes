@@ -9,6 +9,7 @@ Ingredient | Quantitity | Notes
 ---------: | :--------- | :----
 Carrots | 3 | whole, unpeeled
 Tofu | 150g 
+Banana | 1 | frozen
 Water | 600 ml |
 Prunes, pitted | 5 
 Cinnamon | 1 tablespoon 
