@@ -13,7 +13,8 @@ Coconut water | 500 ml |
 Banana | 1 frozen | 
 Spinach, frozen | 1 cup | 
 Parsley, fresh  | 1 cup | 
-Cucumber | 200 g |
+Cucumber or Celery | 200 g |
+Mint | 4 sprigs |
 Water | 100 ml |
 Lemon, meyer | 1 | peeled
 
