@@ -5,28 +5,30 @@ tags: vegan, raw
 
 # Chia Chocolate Pudding (Dry mix)
 
-Lais showed me this. I mix the ingredients and keep heaps in a mason jar. 
+makes 10 servings
 
 Ingredient | Quantitity | Notes 
 ---------: | :--------- | :----
-Chia seeds | 200 g | |
-Cocoa powder | 100 g | | 
-Sunflower seeds | 50 g | |
-Pumpkin sseds | 50 g | |
-Raisins | 50 g | |
+Chia seeds | 300 g | 
+Cocoa powder | 100 g | 
+Cococnut sugar | 45 g (.25 C) | optional
+Salt | 5 g (1 tsp) | optional
+Vanilla bean | 1/2 | optional
 
 ## Method 
-1. Combine ingredients.
+1. Chop and pulverize vanilla with salt and sugar in a motar and pestle
+2. Combine ingredients.
 
 # Chia Chocolate Pudding
 
-Make the night before.
+Make the night before. Flavored extract is a nice addition but optional.
 
 Ingredient | Quantitity | Notes 
 ---------: | :--------- | :----
 Chia pidding dry mix | 40 g | |
-Water | 150 g | milk adds richness if you'd like | 
+Water or vegan milk | 150 g | milk adds richness
+Mint or orange extract, or rose water | 3 drops | optional
 
 ## Method 
 1. Combine ingredients, shake and let sit overnight.
-2. Top with fixins (goji berris, coconut, peanut butter, chopped dates)
+2. Top with peanut-butter-flax whip, blueberrries, cirtus, and shredded unsweetened coconut (my fav)
