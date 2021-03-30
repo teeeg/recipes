@@ -26,8 +26,8 @@ Make the night before. Flavored extract is a nice addition but optional.
 Ingredient | Quantitity | Notes 
 ---------: | :--------- | :----
 Chia pidding dry mix | 40 g | |
-Water or vegan milk | 150 g | milk adds richness
-Mint or orange extract, or rose water | 3 drops | optional
+Water | 150 g | or flavored milk
+Mint or orange extract | 3 drops | optional
 
 ## Method 
 1. Combine ingredients, shake and let sit overnight.
