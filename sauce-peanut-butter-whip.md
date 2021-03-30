@@ -1,4 +1,3 @@
-
 ---
 category: breakfast
 tags: vegan, gluten-free
