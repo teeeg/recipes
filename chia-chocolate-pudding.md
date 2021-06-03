@@ -16,7 +16,7 @@ Salt | 5 g (1 tsp) | optional
 Vanilla bean | 1/2 | optional
 
 ## Method 
-1. Chop and pulverize vanilla with salt and sugar in a motar and pestle
+1. Chop and pulverize vanilla with salt in a motar and pestle
 2. Combine ingredients.
 
 # Chia Chocolate Pudding
